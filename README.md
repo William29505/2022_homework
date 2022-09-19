@@ -9,6 +9,8 @@
 
 ![nkust](nkust.png "nkust")
 
+[![Never Gonna Give You Up](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Nerver Gonna Give You up")
+
 Emphasis, aka italics, with asterisks or underscires.
 Strong emphasis, aka blod, with astrisks or underscores.
 Combined emphasis with asterisks and underscores.
