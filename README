@@ -5,7 +5,7 @@
 ##### 2022_homwork
 
 
-#:poop: :dog: :crown:
+# :poop: :dog: :crown:
 
 ![nkust](nkust.png "NKUST")
 
@@ -24,3 +24,9 @@ javascript
 var s="JavaScript Syntex Highlighting
 alert(s)
 ```
+
+|Tables | Are | Cool|
+|:------|:-----:|----:|
+|col 3 is|right-aligend|$1600|
+|col 2 is|center|$12|
+|zebra strip| are neat| $1|
