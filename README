@@ -7,7 +7,7 @@
 
 # :poop: :dog: :crown:
 
-![nkust](nkust.png "NKUST")
+![nkust](nkust.png "nkust")
 
 
 - [ ]to do list 
@@ -21,8 +21,8 @@ print(s)
 
 JavaScript
 ```javascript
-var s="JavaScript Syntex Highlighting;
-alert(s);
+ var s="JavaScript Syntex Highlighting;
+ alert(s);
 ```
 
 |Tables | Are | Cool|
