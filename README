@@ -19,10 +19,10 @@ s="python syntex highlighting
 print(s)
 ```
 
-javascript
+JavaScript
 ```javascript
-var s="JavaScript Syntex Highlighting
-alert(s)
+var s="JavaScript Syntex Highlighting;
+alert(s);
 ```
 
 |Tables | Are | Cool|
