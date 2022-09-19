@@ -34,7 +34,7 @@ Strikethrough uses rwo tildes. ~~Scratch this~~
  >***  note 3
 
 
-- [ ]to do list 
+- [ ] to do list 
 - [x] already done
 
 python code
