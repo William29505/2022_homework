@@ -11,11 +11,17 @@
 
 [![Never Gonna Give You Up](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Nerver Gonna Give You up")
 
-Emphasis, aka italics, with *asterisks* or *underscires*.
-Strong emphasis, aka blod, with **astrisks** or **underscores**.
-Combined emphasis with **asterisks and underscores**.
-Strikethrough uses rwo tildes. ~~Scratch this~~
+# 實作練習題
 
+***
+Emphasis, aka italics, with *asterisks* or *underscires*.
+
+Strong emphasis, aka blod, with **astrisks** or **underscores**.
+
+Combined emphasis with **asterisks and underscores**.
+
+Strikethrough uses rwo tildes. ~~Scratch this~~
+***
 1.First ordered list item
 
 2.Another item
@@ -32,23 +38,23 @@ Strikethrough uses rwo tildes. ~~Scratch this~~
  >...* note 2
  
  >***  note 3
-
+***
 
 - [ ] to do list 
 - [x] already done
-
+***
 python code
 ```python
 s="python syntex highlighting
 print(s)
 ```
-
+***
 JavaScript
 ```javascript
  var s="JavaScript Syntex Highlighting;
  alert(s);
 ```
-
+***
 Colons can be used to align columns.
 |Tables | Are | Cool|
 |:------|:-----:|----:|
