@@ -10,8 +10,8 @@
 ![google](google.png "Google")
 
 
--{}to do list 
--{x} already done
+-[]to do list 
+-[x] already done
 
  ```Python
  s="python syntex highlighting
