@@ -8,3 +8,12 @@
 # :poop: :dog: :crown:
 
 ![google](google.png "Google")
+
+
+-{}to do list 
+-{x} already done
+
+ ```Python
+ s="python syntex highlighting
+ print(s)
+ ```
