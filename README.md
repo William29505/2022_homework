@@ -9,6 +9,10 @@
 
 ![nkust](nkust.png "nkust")
 
+Emphasis, aka italics=, with asterisks or underscires.
+Strong emphasis, aka blod, with astrisks or underscores.
+Combined emphasis with asterisks and underscores.
+Strikethrough uses rwo tildes. Scratch this
 
 - [ ]to do list 
 - [x] already done
@@ -32,3 +36,6 @@ JavaScript
 |zebra strip| are neat| $1|
 
 
+|Markdown | Less | Pretty|
+|Still|```Renders```|nicely|
+|1|2|3|
