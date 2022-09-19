@@ -5,7 +5,7 @@
 ##### 2022_homwork
 
 
-# :poop: :dog: :crown:
+#:poop: :dog: :crown:
 
 ![nkust](nkust.png "NKUST")
 
@@ -13,7 +13,7 @@
 - [ ]to do list 
 - [x] already done
 
- ```python
- s="python syntex highlighting
- print(s)
- ```
+```python
+s="python syntex highlighting
+print(s)
+```
