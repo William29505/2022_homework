@@ -37,5 +37,6 @@ JavaScript
 
 
 |Markdown | Less | Pretty|
+|:------|:-----:|----:|
 |Still|```Renders```|nicely|
 |1|2|3|
