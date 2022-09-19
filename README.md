@@ -9,7 +9,7 @@
 
 ![nkust](nkust.png "nkust")
 
-Emphasis, aka italics=, with asterisks or underscires.
+Emphasis, aka italics, with asterisks or underscires.
 Strong emphasis, aka blod, with astrisks or underscores.
 Combined emphasis with asterisks and underscores.
 Strikethrough uses rwo tildes. Scratch this
