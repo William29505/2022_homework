@@ -13,7 +13,14 @@
 - [ ]to do list 
 - [x] already done
 
+python code
 ```python
 s="python syntex highlighting
 print(s)
+```
+
+javascript
+```javascript
+var s="JavaScript Syntex Highlighting
+alert(s)
 ```
