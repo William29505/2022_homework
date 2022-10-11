@@ -11,6 +11,8 @@
 
 [![Never Gonna Give You Up](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Nerver Gonna Give You up")
 
+[高科大](https://mis.nkust.edu.tw/)
+
 # 實作練習題
 
 ***
